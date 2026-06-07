@@ -37,3 +37,5 @@ cd cinematch-recommender
 Iduwara Nisal Palihawadana * GitHub: @iduwaranisal
 
 ⭐️ If you like this project, please give it a star on GitHub!
+
+similarity.pkl file link - https://drive.google.com/file/d/1TOTyykOWTnDA9byQdWh8vU52yyfgNvcy/view?usp=sharing
